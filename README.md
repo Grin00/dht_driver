@@ -70,7 +70,7 @@ Temperature: 25.70
 Humidity: 32.00 
 Status: DHT_OK 
 -----------------------------
-
+```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to
 discuss what you would like to change.
